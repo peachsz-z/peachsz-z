@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=peachesz-z&&show_icons=true&theme=dark)
+![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=peachsz-z&&show_icons=true&theme=dark)
 
 <!--
 **peachsz-z/peachsz-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

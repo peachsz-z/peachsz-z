@@ -37,11 +37,12 @@
   <a href="https://peach-hzz.tistory.com/">
    <img src="https://img.shields.io/badge/peachlog-lightgrey?style=flat&logo=Tistory&logoColor=white"/>
  </p>
-  
+<!--   
+  <img width="50%" src="https://www.notion.so/2023-01-13-API-cb8f51e4fc2346819cffa01840a06f70#aea0d1a901274496b5414860a7110322"/> -->
  <br/>
  <br/>
   
- ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=peachsz-z&&show_icons=true) 
+ ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=peachsz-z&&show_icons=true&theme=moltack) 
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdmf0914)](https://solved.ac/rkdmf0914)
   <br/>

@@ -6,7 +6,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=F4B7C2&text=Welcome&animation=blink&height=200&fontColor=FFFFFF&desc=peachsz-z's%20home&descAlignY=75"/>
 </div>
 
-
+<p align="center">
+ <img width="30%" src="https://user-images.githubusercontent.com/122509630/212248023-c19ee088-804c-40da-adc3-c19a382fccac.png"/> 
+</p>
 
 <h2 align="center">⋆⁺₊⋆⭐ my profile ⭐⋆⁺₊⋆</h2>
 <h4 align="center"> MBTI : ESFP🍰 </h4>
@@ -37,8 +39,6 @@
   <a href="https://peach-hzz.tistory.com/">
    <img src="https://img.shields.io/badge/peachlog-lightgrey?style=flat&logo=Tistory&logoColor=white"/>
  </p>
-<!--   
-  <img width="50%" src="https://www.notion.so/2023-01-13-API-cb8f51e4fc2346819cffa01840a06f70#aea0d1a901274496b5414860a7110322"/> -->
  <br/>
  <br/>
   
